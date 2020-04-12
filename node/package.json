@@ -1,0 +1,19 @@
+{
+  "name": "canvas-led-node",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "devDependencies": {
+    "node-pixel-pusher": "^1.0.4"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "semi": false,
+    "singleQuote": true
+  },
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
+}
