@@ -1,0 +1,17 @@
+{
+  "name": "canvas-led-electron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^8.2.0",
+    "node-pixel-pusher": "^1.0.4"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "semi": false,
+    "singleQuote": true
+  }
+}
