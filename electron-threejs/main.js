@@ -8,7 +8,8 @@ function createWindow () {
     width: 694,
     height: 427,
     webPreferences: {
-      nodeIntegration: true
+      nodeIntegration: true,
+      backgroundThrottling: false
     }
   })
 
