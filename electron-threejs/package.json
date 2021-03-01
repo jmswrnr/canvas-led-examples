@@ -6,7 +6,7 @@
     "start": "electron ."
   },
   "devDependencies": {
-    "three": "^0.115.0",
+    "three": "^0.125.0",
     "electron": "^8.2.0",
     "node-pixel-pusher": "^1.0.4"
   },
