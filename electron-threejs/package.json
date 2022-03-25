@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "three": "^0.115.0",
-    "electron": "^8.2.0",
+    "electron": "^13.6.6",
     "node-pixel-pusher": "^1.0.4"
   },
   "prettier": {
